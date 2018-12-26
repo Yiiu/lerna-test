@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Yiiu/lerna-test/issues"
   },
-  "homepage": "https://github.com/Yiiu/lerna-test#readme"
+  "homepage": "https://github.com/Yiiu/lerna-test#readme",
+  "devDependencies": {
+    "lerna": "^3.4.3"
+  }
 }
